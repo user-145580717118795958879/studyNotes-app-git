@@ -1,7 +1,7 @@
 # studyNotes-app-git
 git 命令的学习笔记
 ## 配置 git
-git config --global user.name "<your_name>" #配置姓名
+git config --global user.name "<your_name>" #配置姓名<br>
 git config --global user.email "<your_email>" #配置邮箱
 ## 创建 git 仓库
 git init
@@ -20,6 +20,6 @@ git remote -v #此项存疑
 ## 推送到远程仓库
 git push origin main #此项未验证
 ## 从远程仓库拉取
-git pull origin main ##此项未验证
+git pull origin main #此项未验证
 ## 查看变更
 git diff
